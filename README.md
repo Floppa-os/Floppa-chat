@@ -1,5 +1,5 @@
 # Floppa-chat
-Мессенджер
+Мессенджер:
 messenger/
 ├── server/
 │   ├── __init__.py
@@ -14,3 +14,4 @@ messenger/
 │   └── protocol.py
 ├── config.py
 └── requirements.txt
+Для хоста используется переменная host.
