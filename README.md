@@ -23,3 +23,5 @@ PORT = 8888
 BUFFER_SIZE = 1024HOST = '127.0.0.1'
 PORT = 8888
 BUFFER_SIZE = 1024
+## конфиг с переменными хоста
+main.py
