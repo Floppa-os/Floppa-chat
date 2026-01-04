@@ -1,3 +1,3 @@
 HOST = host
-PORT = 8888
+PORT = port
 BUFFER_SIZE = 1024
