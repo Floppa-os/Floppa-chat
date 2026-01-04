@@ -1,0 +1,3 @@
+HOST = host
+PORT = 8888
+BUFFER_SIZE = 1024
