@@ -15,3 +15,4 @@ messenger/
 ├── config.py
 └── requirements.txt
 Для хоста используется переменная host.
+ДЛя порта используется переменная port.
