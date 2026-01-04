@@ -1,3 +1,3 @@
-HOST = host
-PORT = port
+HOST = '186.168.1.1'
+PORT = 0000
 BUFFER_SIZE = 1024
